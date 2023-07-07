@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Vitaj na XedomCraft wiki!](README.md)
 * [Bedrock pripojenie](bedrock-pripojenie.md)
